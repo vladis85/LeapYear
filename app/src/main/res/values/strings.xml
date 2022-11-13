@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Leap year</string>
+    <string name="enter_year">Enter year</string>
+    <string name="yes">This year is a leap year. February has 29 days</string>
+    <string name="no">This year is not a leap year. February has 28 days</string>
+    <string name="verify">Verify</string>
+    <string name="field">field cannot be empty</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Високосный год</string>
+    <string name="enter_year">Введите год</string>
+    <string name="no">Этот год невисокосный. В феврале 28 дней</string>
+    <string name="yes">Этот год високосный. В феврале 29 дней</string>
+    <string name="verify">Проверить</string>
+    <string name="field">Поле не может быть пустым</string>
+</resources>
